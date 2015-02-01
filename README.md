@@ -13,12 +13,12 @@ Aravinth Panchadcharam - <me@aravinth.info>
 
 DESIGN
 --------------------------------------
-![Design](https://raw.githubusercontent.com/AravinthPanch/yetu-cam/prototype-design.jpg "Design")
+![Design](https://raw.githubusercontent.com/AravinthPanch/yetu-cam/master/image/prototype-design.jpg "Design")
 
 
 VERSION 1.0
 --------------------------------------
-![v1.0](https://raw.githubusercontent.com/AravinthPanch/yetu-cam/yetu-cam-v1.jpg "Version 1.0")
+![v1.0](https://raw.githubusercontent.com/AravinthPanch/yetu-cam/master/image/yetu-cam-v1.jpg "Version 1.0")
 
 
 CONSTRUCTION
