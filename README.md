@@ -8,7 +8,7 @@ Yetu CAM is a simple telepresence robot. A telepresence robot is a remote-contro
 
 AUTHOR
 --------------------------------------
-Aravinth Panchadcharam - <me@aravinth.info>
+Aravinth Panchadcharam
 
 
 DESIGN
